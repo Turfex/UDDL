@@ -2,8 +2,15 @@
     {
         "role": "owner",
         "name": "DarnexGD",
-        "link": "https://www.youtube.com/@realdarnexgd"
+        "link": "https://www.youtube.com/@notdarnex"
     },
+
+    {
+        "role": "owner",
+        "name": "GeoSs",
+        "link": "https://www.youtube.com/@PassionGD-x9x"
+    },
+    
     {
         "role": "dev",
         "name": "Prometheus",
